@@ -27,6 +27,6 @@
 
 <p>
 <a href="https://github.com/TheSilver1023">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=333333"
 </a>
 </p>
