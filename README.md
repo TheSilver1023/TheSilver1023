@@ -1,5 +1,5 @@
 <div align="center">
-### Languages:
+🔧 Languages &nbsp
 </div>
 - Python
 - Bash
