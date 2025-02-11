@@ -1,26 +1,21 @@
 ## Hi, I'm [TheSilver](https://github.com/TheSilver1023)
 
----
-### Skills
+## Skills:
 
 - 🌐 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 - ⚙️ &nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
----
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <p>
 <a href="https://github.com/TheSilver1023">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=333333"
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=0969DA"
 </a>
 </p>
