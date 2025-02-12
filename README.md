@@ -2,19 +2,19 @@
 <ul>
   <li>
     Python 
-    <img height="30" src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python">
+    <img height="30" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
   </li>
   <li>
     Bash 
-    <img height="30" src="https://img.shields.io/badge/-Bash-FFFFFF?style=for-the-badge&logo=gnubash">
+    <img height="30" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash">
   </li>
   <li>
     JavaScript 
-    <img height="30" src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript">
+    <img height="30" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript">
   </li>
   <li>
     TypeScript 
-    <img height="30" src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript">
+    <img height="30" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript">
   </li>
 </ul>
 
@@ -22,7 +22,7 @@
 <ul>
   <li>
     MySQL 
-    <img height="30" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql">
+    <img height="30" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql">
   </li>
 </ul>
 
@@ -30,15 +30,15 @@
 <ul>
   <li>
     Docker 
-    <img height="30" src="https://img.shields.io/badge/-Docker-FFFFFF?style=for-the-badge&logo=docker">
+    <img height="30" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker">
   </li>
   <li>
     Linux 
-    <img height="30" src="https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=linux">
+    <img height="30" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux">
   </li>
   <li>
     Git 
-    <img height="30" src="https://img.shields.io/badge/-Git-FFFFFF?style=for-the-badge&logo=git">
+    <img height="30" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git">
   </li>
 </ul>
 
