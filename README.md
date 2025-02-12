@@ -1,3 +1,7 @@
+<div align="center">
+<h2>Hi, I'm TheSilver</h2>
+</div>
+
 <h2>📝 Languages:</h2>
 <span>
   <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
