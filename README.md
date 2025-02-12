@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><strong>Languages:</strong></td>
+    <td><strong>Languages</strong></td>
     <td>
       <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
       <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash">
@@ -9,13 +9,13 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Databases:</strong></td>
+    <td><strong>Databases</strong></td>
     <td>
       <img height="40" src="https://img.shields.io/badge/-MySQL-151a22?style=for-the-badge&logo=mysql">
     </td>
   </tr>
   <tr>
-    <td><strong>Tools & Technologies:</strong></td>
+    <td><strong>Tools & Technologies</strong></td>
     <td>
       <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker">
       <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux">
