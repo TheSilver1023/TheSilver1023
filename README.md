@@ -1,10 +1,10 @@
 <div align="center">
-🔧 Languages &nbsp
+🔧 Languages 
 </div>
-- Python
-- Bash
-- JavaScript
-- TypeScript
+- Python &nbsp
+- Bash &nbsp
+- JavaScript &nbsp
+- TypeScript &nbsp
 
 <div align="center">
 ### **Databases:**
