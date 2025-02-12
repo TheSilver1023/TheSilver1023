@@ -1,39 +1,35 @@
-<div align="center">
-<h2>Hi, I'm TheSilver</h2>
-</div>
+## Hi! I'm TheSilver
 
-<h3>📝 Languages:</h3>
-<span>
-  <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
-  <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript">
-  <img height="40" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript">
-  <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash">
-</span>
+![](https://komarev.com/ghpvc/?username=thesilver1023&style=for-the-badge)
 
-<h3>⚙️ Tools & Technologies:</h3>
-<span>
-  <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux">
-  <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker">
-  <img height="40" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git">
-  <img height="40" src="https://img.shields.io/badge/-Node.js-0c1017?style=for-the-badge&logo=node.js">
-</span>
+---
+### Languages
 
-<h3>🎨 UI & Web Development:</h3>
-<span>
-  <img height="40" src="https://img.shields.io/badge/-React-0c1017?style=for-the-badge&logo=react">
-  <img height="40" src="https://img.shields.io/badge/-TailwindCSS-0c1017?style=for-the-badge&logo=tailwindcss">
-  <img height="40" src="https://img.shields.io/badge/-HTML-0c1017?style=for-the-badge&logo=html5">
-  <img height="40" src="https://img.shields.io/badge/-CSS-0c1017?style=for-the-badge&logo=css3&logoColor=1572B6">
-</span>
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3>🗄️ Databases:</h3>
-<span>
-  <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql">
-  <img height="40" src="https://img.shields.io/badge/-SQLite-0c1017?style=for-the-badge&logo=sqlite">
-</span>
+### Technologies
 
-<hr style="border: 2px solid #ffffff; width: 80%;">
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2300AF64?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### UI & Web Development
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+--- 
 <div align="center">
   <p>
     <a href="https://github.com/TheSilver1023">
@@ -41,3 +37,4 @@
     </a>
   </p>
 </div>
+---
