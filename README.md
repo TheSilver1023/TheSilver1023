@@ -23,7 +23,7 @@
   <img height="40" src="https://img.shields.io/badge/-React-0c1017?style=for-the-badge&logo=react">
   <img height="40" src="https://img.shields.io/badge/-TailwindCSS-0c1017?style=for-the-badge&logo=tailwindcss">
   <img height="40" src="https://img.shields.io/badge/-HTML-0c1017?style=for-the-badge&logo=html5">
-  <img height="40" src="https://img.shields.io/badge/-CSS-0c1017?style=for-the-badge&logo=css3">
+  <img height="40" src="https://img.shields.io/badge/-CSS-0c1017?style=for-the-badge&logo=css3&logoColor=1572B6">
 </span>
 
 <h3>🗄️ Databases:</h3>
