@@ -2,24 +2,24 @@
   <tr>
     <td><strong>Languages:</strong></td>
     <td>
-      <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python&logoColor=E11111">
-      <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash&logoColor=E11111">
-      <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript&logoColor=E11111">
-      <img height="40" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript&logoColor=E11111">
+      <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
+      <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash">
+      <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript">
+      <img height="40" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript">
     </td>
   </tr>
   <tr>
     <td><strong>Databases:</strong></td>
     <td>
-      <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql&logoColor=E11111">
+      <img height="40" src="https://img.shields.io/badge/-MySQL-151a22?style=for-the-badge&logo=mysql">
     </td>
   </tr>
   <tr>
     <td><strong>Tools & Technologies:</strong></td>
     <td>
-      <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker&logoColor=E11111">
-      <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux&logoColor=E11111">
-      <img height="40" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git&logoColor=E11111">
+      <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker">
+      <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux">
+      <img height="40" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git">
     </td>
   </tr>
 </table>
