@@ -1,27 +1,47 @@
 <div align="center">
-🔧 Languages 
-</div>
-- Python &nbsp
-- Bash &nbsp
-- JavaScript &nbsp
-- TypeScript &nbsp
 
-<div align="center">
-### **Databases:**
-</div>
-  - MySQL
+  <h3>Languages:</h3>
+  <ul>
+    <li>
+      🐍 Python 
+      <img height="20" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
+    </li>
+    <li>
+      🐚 Bash 
+      <img height="20" src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash">
+    </li>
+    <li>
+      ⚡ JavaScript 
+      <img height="20" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+    </li>
+    <li>
+      🔷 TypeScript 
+      <img height="20" src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript">
+    </li>
+  </ul>
 
-<div align="center">
-### **Tools & Technologies:**
-</div>
-- Docker
-- Linux
-- Git
+  <h3>Databases:</h3>
+  <ul>
+    <li>
+      🗄️ MySQL 
+      <img height="20" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
+    </li>
+  </ul>
 
-<div align="center">
-<p>
-<a href="https://github.com/TheSilver1023">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=0c1017"
-</a>
-</p>
+  <h3>Tools & Technologies:</h3>
+  <ul>
+    <li>
+      🐳 Docker 
+      <img height="20" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker">
+    </li>
+    <li>
+      🐧 Linux 
+      <img height="20" src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux">
+    </li>
+    <li>
+      ⚙️ Git 
+      <img height="20" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+    </li>
+  </ul>
+
 </div>
