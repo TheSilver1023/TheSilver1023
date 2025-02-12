@@ -1,5 +1,5 @@
+<h3>Languages:</h3>
 <span>
-Languages:
   <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python">
   <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash">
   <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript">
