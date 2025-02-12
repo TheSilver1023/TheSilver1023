@@ -1,5 +1,5 @@
 <div align="center">
-<p style="font-size: 22px; font-weight: bold; color: white;">Hi, I'm TheSilver</p>
+<p style="font-size: 50px; font-weight: bold; color: white;">Hi, I'm TheSilver</p>
 </div>
 
 <p style="font-size: 22px; font-weight: bold; color: white;">📝 Languages:</p>
