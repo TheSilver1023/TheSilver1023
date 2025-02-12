@@ -17,7 +17,9 @@
 <span>
   <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql">
 </span>
-<hr>
+
+<hr style="border: 2px solid #ffffff; width: 80%;">
+
 <div align="center">
 <p>
 <a href="https://github.com/TheSilver1023">
