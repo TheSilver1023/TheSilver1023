@@ -1,5 +1,5 @@
 <div align="center">
-<p style="font-size: 22px; font-weight: bold; color: white;">>Hi, I'm TheSilver</p>
+<p style="font-size: 22px; font-weight: bold; color: white;">Hi, I'm TheSilver</p>
 </div>
 
 <p style="font-size: 22px; font-weight: bold; color: white;">📝 Languages:</p>
@@ -39,7 +39,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/TheSilver1023">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=0c1017">
+      <img width="70%" src="https://github-readme-stats.vercel.app/api?username=TheSilver1023&hide_border=true&show_icons=true&title_color=E11111&icon_color=FF5733&text_color=FFFFFF&bg_color=0c1017">
     </a>
   </p>
 </div>
