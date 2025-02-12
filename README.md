@@ -1,17 +1,28 @@
-<h3 style="font-size: 24px;">Languages:</h3>
-<img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python&logoColor=ffffff">
-<img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash&logoColor=ffffff">
-<img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript&logoColor=ffffff">
-<img height="40" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript&logoColor=ffffff">
-
-<h3 style="font-size: 24px;">Databases:</h3> <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql&logoColor=ffffff">
-
-<h3 style="font-size: 24px;">Tools & Technologies:</h3>
-<img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker&logoColor=ffffff">
-<img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux&logoColor=ffffff">
-<img height="40" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git&logoColor=ffffff">
-
-
+<table>
+  <tr>
+    <td><strong>Languages:</strong></td>
+    <td>
+      <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python&logoColor=FFD43B">
+      <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
+      <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+      <img height="40" src="https://img.shields.io/badge/-TypeScript-0c1017?style=for-the-badge&logo=typescript&logoColor=3178C6">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases:</strong></td>
+    <td>
+      <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql&logoColor=4479A1">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Technologies:</strong></td>
+    <td>
+      <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker&logoColor=2496ED">
+      <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux&logoColor=FCC624">
+      <img height="40" src="https://img.shields.io/badge/-Git-0c1017?style=for-the-badge&logo=git&logoColor=E11111">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <p>
