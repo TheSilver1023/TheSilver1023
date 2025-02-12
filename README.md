@@ -1,44 +1,44 @@
-<h3>Languages:</h3>
+<h3 style="font-size: 24px;">Languages:</h3>
 <ul>
   <li>
-    🐍 Python 
-    <img height="20" src="https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python">
+    Python 
+    <img height="30" src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python">
   </li>
   <li>
-    🐚 Bash 
-    <img height="20" src="https://img.shields.io/badge/-Bash-FFFFFF?style=flat&logo=gnubash">
+    Bash 
+    <img height="30" src="https://img.shields.io/badge/-Bash-FFFFFF?style=for-the-badge&logo=gnubash">
   </li>
   <li>
-    ⚡ JavaScript 
-    <img height="20" src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript">
+    JavaScript 
+    <img height="30" src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript">
   </li>
   <li>
-    🔷 TypeScript 
-    <img height="20" src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat&logo=typescript">
+    TypeScript 
+    <img height="30" src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript">
   </li>
 </ul>
 
-<h3>Databases:</h3>
+<h3 style="font-size: 24px;">Databases:</h3>
 <ul>
   <li>
-    🗄️ MySQL 
-    <img height="20" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql">
+    MySQL 
+    <img height="30" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql">
   </li>
 </ul>
 
-<h3>Tools & Technologies:</h3>
+<h3 style="font-size: 24px;">Tools & Technologies:</h3>
 <ul>
   <li>
-    🐳 Docker 
-    <img height="20" src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker">
+    Docker 
+    <img height="30" src="https://img.shields.io/badge/-Docker-FFFFFF?style=for-the-badge&logo=docker">
   </li>
   <li>
-    🐧 Linux 
-    <img height="20" src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux">
+    Linux 
+    <img height="30" src="https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=linux">
   </li>
   <li>
-    ⚙️ Git 
-    <img height="20" src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git">
+    Git 
+    <img height="30" src="https://img.shields.io/badge/-Git-FFFFFF?style=for-the-badge&logo=git">
   </li>
 </ul>
 
