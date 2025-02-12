@@ -1,8 +1,8 @@
 <div align="center">
-<p style="font-size: 50px; font-weight: bold; color: white;">Hi, I'm TheSilver</p>
+<h2>Hi, I'm TheSilver</h2>
 </div>
 
-<p style="font-size: 22px; font-weight: bold; color: white;">📝 Languages:</p>
+<h3>📝 Languages:</h3>
 <span>
   <img height="40" src="https://img.shields.io/badge/-Python-0c1017?style=for-the-badge&logo=python&logoColor=ffffff">
   <img height="40" src="https://img.shields.io/badge/-JavaScript-0c1017?style=for-the-badge&logo=javascript&logoColor=ffffff">
@@ -10,7 +10,7 @@
   <img height="40" src="https://img.shields.io/badge/-Bash-0c1017?style=for-the-badge&logo=gnubash&logoColor=ffffff">
 </span>
 
-<p style="font-size: 22px; font-weight: bold; color: white;">⚙️ Tools & Technologies:</p>
+<h3>⚙️ Tools & Technologies:</h3>
 <span>
   <img height="40" src="https://img.shields.io/badge/-Linux-0c1017?style=for-the-badge&logo=linux&logoColor=ffffff">
   <img height="40" src="https://img.shields.io/badge/-Docker-0c1017?style=for-the-badge&logo=docker&logoColor=ffffff">
@@ -18,13 +18,13 @@
   <img height="40" src="https://img.shields.io/badge/-Node.js-0c1017?style=for-the-badge&logo=node.js&logoColor=ffffff">
 </span>
 
-<p style="font-size: 22px; font-weight: bold; color: white;">🗄️ Databases:</p>
+<h3>🗄️ Databases:</h3>
 <span>
   <img height="40" src="https://img.shields.io/badge/-MySQL-0c1017?style=for-the-badge&logo=mysql&logoColor=ffffff">
   <img height="40" src="https://img.shields.io/badge/-SQLite-0c1017?style=for-the-badge&logo=sqlite&logoColor=ffffff">
 </span>
 
-<p style="font-size: 22px; font-weight: bold; color: white;">🎨 UI & Web Development:</p>
+<h3>🎨 UI & Web Development:</h3>
 <span>
   <img height="40" src="https://img.shields.io/badge/-React-0c1017?style=for-the-badge&logo=react&logoColor=ffffff">
   <img height="40" src="https://img.shields.io/badge/-Vue.js-0c1017?style=for-the-badge&logo=vue.js&logoColor=ffffff">
